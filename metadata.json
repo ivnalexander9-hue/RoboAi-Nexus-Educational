@@ -1,0 +1,6 @@
+{
+  "name": "RoboAI Nexus - Portal Robotika & Kecerdasan Buatan",
+  "description": "Platform eksplorasi perkembangan robotik dan AI: berita harian terkini, simulasi interaktif (kinematika, computer vision, pathfinding), fakta ilmiah, dan analisis artikel riset mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
